@@ -1,0 +1,7 @@
+deposit 120
+withdrawl 20
+undo
+redo
+deposit 100
+undo
+redo
